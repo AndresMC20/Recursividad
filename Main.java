@@ -12,7 +12,7 @@ public class Main {
 
        //EJERCICIO3
        int vector[]={2,3,9,7,4,1};
-       System.out.println(Ejercicio3.sumaVector(vector, 5));
+       System.out.println(Ejercicio3.sumaVector(vector, vector.length-1));
 
     }
     
